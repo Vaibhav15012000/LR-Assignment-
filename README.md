@@ -2,4 +2,4 @@
 
 Welcome
 
-https://deployfirsttime.herokuapp.com/ -- Link for deployed model
+https://lr-assignment-ineuron.herokuapp.com/-- Link for deployed model
